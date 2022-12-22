@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/11780
 import sys
 input = sys.stdin.readline
 INF = sys.maxsize

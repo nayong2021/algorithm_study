@@ -1,4 +1,4 @@
-#https://www.acmicpc.net/problem/2263
+# https://www.acmicpc.net/problem/2263
 n = int(input())
 inorder = list(map(int, input().split()))
 postorder = list(map(int, input().split()))

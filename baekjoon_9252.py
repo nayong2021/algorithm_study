@@ -1,4 +1,4 @@
-#https://www.acmicpc.net/problem/9252
+# https://www.acmicpc.net/problem/9252
 
 A = input()
 B = input()

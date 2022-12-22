@@ -1,4 +1,4 @@
-#https://www.acmicpc.net/problem/13913
+# https://www.acmicpc.net/problem/13913
 from collections import deque
 
 N, K = map(int, input().split())

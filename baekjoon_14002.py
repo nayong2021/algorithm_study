@@ -1,4 +1,4 @@
-#https://www.acmicpc.net/problem/14002
+# https://www.acmicpc.net/problem/14002
 
 N = int(input())
 A = list(map(int, input().split()))

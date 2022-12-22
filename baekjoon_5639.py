@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/5639
 import sys
 sys.setrecursionlimit(10 ** 6)
 input=sys.stdin.readline
