@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2342
+
 import sys
 INF = sys.maxsize
 
